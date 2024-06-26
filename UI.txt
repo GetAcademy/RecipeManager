@@ -1,0 +1,26 @@
+Legge til ny oppskrift
+
+Skriv inn tittel: 
+Skriv inn tidsbruk i minutter: 
+Skriv inn kategori: 
+Skriv inn fremgangsmåte:
+
+=> new Recipe
+
+For hver ingrediens
+
+Vil du 
+A: skrive inn navnet på ingrediensen
+B: bruke en annen oppskrift som ingrediens
+
+Hvis A:
+Skriv inn navn:
+Skriv inn mengde: 
+Skriv inn enhet: 
+Skriv inn kommentar: 
+
+Hvis B:
+Skriv navn på oppskrift
+
+
+=> AddIngredient
